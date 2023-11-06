@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Milliradian300
 - 👀 I’m interested in LoRa mesh networking, secure communications, TSCM, and anything RF
-- 🌱 I’m currently learning Arduino IDE 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
