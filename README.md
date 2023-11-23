@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Milliradian300
-- 👀 I’m interested in LoRa mesh networking, secure communications, TSCM, and anything RF
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- your ad here
 
 <!---
 Milliradian300/Milliradian300 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
